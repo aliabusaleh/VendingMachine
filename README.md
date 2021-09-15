@@ -39,4 +39,5 @@ dispenses the selected snack to the customer.
 9. The VM determines if any change should be sent back to customer.
 10. The VM displays the change at panel.
 11. Then, the VM dispenses change.
+
 [ P.S You are required to come up with alternative scenarios to this basic flow.]
